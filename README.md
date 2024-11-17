@@ -20,8 +20,8 @@ Ensure you have the following installed on your machine:
 ### Clone the Repository:
 ```bash
 git clone https://github.com/DASUCCESS/Advance-Face-Authentication-With-Data-Management-Django-Version.git
-Once you clone this project, rename the Advance-Face-Authentication-With-Data-Management-Django-Version folder to djangofaceauth to ensure consistency
 ```
+Once you clone this project, rename the Advance-Face-Authentication-With-Data-Management-Django-Version folder to djangofaceauth to ensure consistency
 
 ---
 
