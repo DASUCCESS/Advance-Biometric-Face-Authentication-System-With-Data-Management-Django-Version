@@ -29,8 +29,9 @@ Once you clone this project, rename the Advance-Face-Authentication-With-Data-Ma
 
 1. **Navigate to the backend directory:**
    ```bash
-   cd to root folder of the application
+   cd to djangofaceauth
    ```
+   if you are already here, skip this and move to the next step
 
 2. **Create and activate a virtual environment:**
    ```bash
