@@ -1,4 +1,4 @@
-# Advance Biometric Face Authentication System With Data Management (REACT VERSION)
+# Advance Biometric Face Authentication System With Data Management (DJANGO VERSION)
 
 This is a web application that implements facial recognition for user authentication using **Django** as the backend and **React** for the frontend. The app allows users to register and log in using face data and includes a dashboard for managing user-specific data.
 
@@ -19,7 +19,8 @@ Ensure you have the following installed on your machine:
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/DASUCCESS/Advance-Face-Authentication-With-Data-Management-React-Version.git
+git clone https://github.com/DASUCCESS/Advance-Face-Authentication-With-Data-Management-Django-Version.git
+Once you clone this project, rename the Advance-Face-Authentication-With-Data-Management-Django-Version folder to djangofaceauth to ensure consistency
 ```
 
 ---
